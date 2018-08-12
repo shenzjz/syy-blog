@@ -1,0 +1,2 @@
+# syy-blog
+private blog
